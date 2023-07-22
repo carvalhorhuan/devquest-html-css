@@ -76,3 +76,29 @@ body{
     border-radius: 50%;
     padding: 8px;
 }
+@media (max-width: 700px){
+    body{display: flex;
+    background: url(../images/bg-mobile.svg) center center no-repeat;
+    background-size: cover;
+    min-width: 300px;
+
+}
+    .container-box{
+        margin: 5%;
+    }
+    .main{
+        display: block;
+        font-size: 0.8rem;
+        margin: 5%;
+    }
+    .image-lefth img{
+        width: 100%;
+        margin: auto;
+    }
+    .text-right{
+        text-align: center;
+    }
+    .social{
+        justify-content: center;
+    }
+}
