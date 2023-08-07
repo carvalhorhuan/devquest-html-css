@@ -29,3 +29,14 @@ Display Grid, e Display flex, para auxiliar na adaptação do disigner em varios
 Com backgroud utilizando detalhes, 
 
 Elementos com dinâmica hover, botão Registro e icones das Redes Sociais.
+
+
+## Tecnologias:
+
+<li>HTML</li>
+<li>CSS</li>
+
+## Veja o resultado: 
+
+![Exercicio Landing Page](https://github.com/carvalhorhuan/devquest-html-css/assets/131679296/8bd5a766-cc9a-426d-a9cc-7a16572fa3fc)
+
